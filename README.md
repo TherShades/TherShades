@@ -1,4 +1,4 @@
-<h2 align="left">I'm TherShades...</h2>
+<h2 align="left">Hello, I'm TherShades</h2>
 
 ###
 
