@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://photos.fife.usercontent.google.com/pw/AP1GczNK-crvAOr3RJktZPOTGLdvXUi_TbVIta7pVtTEewuttFVBlmCm8e-0hA=w953-h953-s-no-gm?authuser=0"  />
+<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd1ifsc7DQPgEZrJ6udAPS1PQPyp36bwRVYg&s"  />
 
 ###
 
